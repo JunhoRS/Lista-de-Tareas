@@ -1,0 +1,11 @@
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\bin\Debug\Lista de Tareas.exe.config
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\bin\Debug\Lista de Tareas.exe
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\bin\Debug\Lista de Tareas.pdb
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.csproj.AssemblyReference.cache
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\obj\Debug\Lista_de_Tareas.Form1.resources
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\obj\Debug\Lista_de_Tareas.Properties.Resources.resources
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.csproj.GenerateResource.cache
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.csproj.CoreCompileInputs.cache
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.exe
+C:\Users\Junho\Desktop\Programs\Lista de Tareas\Lista de Tareas\obj\Debug\Lista de Tareas.pdb
